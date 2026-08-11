@@ -7,7 +7,7 @@
 ---
 ## รายงานอภิปราย
 [Lab 7 Software Design 673380299-1 Section 2.pdf](https://github.com/JetnipitKaewsup/lab7-673380299-1-sec2/blob/2219f8556a3a0c183edae60c1fc4f8871bb6ff35/Lab%207%20Software%20Design%20673380299-1.pdf)
-
+---
 ## Technologies
 
 * Java
